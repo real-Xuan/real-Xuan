@@ -14,4 +14,4 @@ You can click the Preview link to take a look at your changes.
 
 - 📝 I regularly write articles on [blog.zhaoxuan.site](blog.zhaoxuan.site)
 
-- Recently Working on DLTools
+- Recently focus on project is DLTools
