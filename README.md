@@ -4,6 +4,8 @@ real-Xuan/real-Xuan is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+![Cover Image](cover.jpg)
+
 <h1 align="center">Hi 👋, I'm Xuan</h1>
 <h3 align="center">A Teacher and Researcher.</h3>
 <h3 align="center">Higher Education Teacher Qualification.</h3>
