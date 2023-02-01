@@ -1,9 +1,3 @@
-
-<!---
-real-Xuan/real-Xuan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 ![Cover Image](cover.jpg)
 
 <h1 align="center">Hi 👋, I'm Xuan</h1>
@@ -15,5 +9,4 @@ You can click the Preview link to take a look at your changes.
 - 📄 Know about my experiences [zhaoxuan.site](https://zhaoxuan.site)
 
 - 📝 I regularly write articles on [blog.zhaoxuan.site](https://blog.zhaoxuan.site)
-
 
