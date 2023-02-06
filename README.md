@@ -6,7 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=real-xuan&label=Profile%20views&color=0e75b6&style=flat" alt="real-xuan" /> </p>
 
 
-- 📄 Know about my experiences [zhaoxuan.site](https://zhaoxuan.site)
+- 📄 Know More about me in [zhaoxuan.site](https://zhaoxuan.site)
 
 - 📝 I regularly write articles on [blog.zhaoxuan.site](https://blog.zhaoxuan.site)
-
