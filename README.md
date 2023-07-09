@@ -6,9 +6,8 @@
 <p align="left">  
 
 - 📄 Know about me in [zhaoxuan.site](https://zhaoxuan.site)
-
 - 📝 Read my blog posts and memos. [blog.zhaoxuan.site](https://blog.zhaoxuan.site)
-  
+- 玄学探索
 - CSDN: @realXuan
 
   </p>
