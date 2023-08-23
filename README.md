@@ -9,6 +9,6 @@
 - 📝 Read my blog posts and memos. [blog.zhaoxuan.site](https://blog.zhaoxuan.site)
 - CSDN: @realXuan
 
-[![Xuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=real-Xuan)](https://blog.zhaoxuan.site)
+[![Xuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=real-Xuan&show_icons=true&theme=tokyonight)](https://blog.zhaoxuan.site)
 
 </p>
