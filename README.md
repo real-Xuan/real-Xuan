@@ -9,4 +9,6 @@
 - 📝 Read my blog posts and memos. [blog.zhaoxuan.site](https://blog.zhaoxuan.site)
 - CSDN: @realXuan
 
-  </p>
+[![Xuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=real-Xuan)](https://github.com/anuraghazra/github-readme-stats)
+
+</p>
