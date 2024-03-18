@@ -8,6 +8,6 @@
 - 📝 CNBLOGS Page [博客园](https://www.cnblogs.com/realxuan/) (Only technic articles)
 </p>
 
-[![Xuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=real-Xuan&show_icons=true&theme=tokyonight)](https://blog.zhaoxuan.site)
+[![Xuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=real-Xuan&show_icons=true&theme=shadow_red)](https://blog.zhaoxuan.site)
 
 
