@@ -3,7 +3,7 @@
 
 <p align="left">  
   
-- 🧘‍♂️ Read my words and articles. [blog.zhaoxuan.site](https://blog.zhaoxuan.site)
+- 🧘‍♂️ Read my words and articles. [My Blog](https://blog.zhaoxuan.site)
 - 📝 CSDN Page @realXuan (Only technic articles)
 - 📝 CNBLOGS Page [博客园](https://www.cnblogs.com/realxuan/) (Only technic articles)
 </p>
