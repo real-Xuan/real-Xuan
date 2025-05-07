@@ -8,6 +8,3 @@
 - 📝 Read my technic articles on CNBLOGS Page [博客园](https://www.cnblogs.com/realxuan/).
 </p>
 
-[![Xuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=real-Xuan&show_icons=true&theme=shadow_red)](https://blog.zhaoxuan.site)
-
-
