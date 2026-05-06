@@ -4,7 +4,6 @@
 <p align="left">  
   
 - 🧘‍♂️ Read my words and articles: [My Blog](https://blog.zhaoxuan.site).
-- 📝 Read my technic articles on CSDN Page @realXuan.
-- 📝 Read my technic articles on CNBLOGS Page [博客园](https://www.cnblogs.com/realxuan/).
+
 </p>
 
