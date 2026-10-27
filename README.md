@@ -6,8 +6,7 @@ I'm a Ph.D. researcher developing physics-informed and uncertainty-aware methods
 
 **Open to radar perception, algorithm research, and research engineering roles.** Available to start now; Ph.D. completion expected **June 2027**.
 
-[Email me](mailto:zhao.xuan@ieee.org) · [Selected work](#selected-work) · [Publications](#selected-publications) · [Technical writing (中文)](https://blog.zhaoxuan.site/)
-
+[Email me](mailto:zhao.xuan@ieee.org) · [Selected work](#selected-work) · [Publications](#selected-publications)
 ## Selected work
 
 ### Physics-informed GPR imaging platform
@@ -18,7 +17,7 @@ Built a Python application connecting radar data import, automated preprocessing
 
 [Explore TRS — Tree Root Software](https://tris.realxuan.site)
 
-### [DLTools — Python tools for ML workflows](https://github.com/real-Xuan/DLTools)
+### DLTools — Python tools for ML workflows
 
 A public toolkit for data preprocessing and postprocessing across radar, computer vision, and signal-processing workflows. Its GPR utilities read and align `.DZT` radar files and export arrays to `.mat` or `.npy`. The repository includes installation instructions, usage examples, and tests.
 
@@ -31,15 +30,10 @@ Conducted joint analysis and cross-validation across GPR data, LiDAR point cloud
 | Research | Venue · Year | Authorship |
 | --- | --- | --- |
 | [Uncertainty-aware root reconstruction with physics-informed variational networks](https://doi.org/10.1109/TGRS.2026.3670339) | IEEE TGRS · 2026 | **First author** |
-| [Face recognition in low-resolution surveillance video streams](https://doi.org/10.1117/12.2518991) | SPIE · 2019 | **First author** |
 | [GPR inversion with a prior physical velocity field](https://doi.org/10.1109/TGRS.2025.3553688) | IEEE TGRS · 2025 | Second author |
 | [GPR-CUNet: spatio-temporal feature fusion for forward and inverse modeling](https://doi.org/10.1109/JSEN.2024.3522888) | IEEE Sensors Journal · 2025 | Second author |
 | [Physics-guided permittivity reconstruction in root–soil environments](https://doi.org/10.1016/j.eswa.2026.134713) | Expert Systems with Applications · 2026 | Co-author |
 | [GPR deep-learning inversion for soil moisture assessment](https://doi.org/10.1016/j.measurement.2026.120594) | Measurement · 2026 | Co-author |
-
-## Tools
-
-Python · PyTorch · Keras · NumPy · SciPy · Linux
 
 ## Education and teaching
 
