@@ -1,42 +1,48 @@
-# Xuan Zhao
-<details>
-<summary><strong>Education and teaching</strong></summary>
+# Xuan (Shawn) Zhao · 赵暄
 
-- PhD candidate in Intelligent Non-destructive Testing, Beijing Forestry University.
-- MS in Electrical and Computer Engineering, Binghamton University, SUNY.
-- Lecturer in Computer Science and Technology, Yanching Institute of Technology. Teaching includes Linux systems and big data visualization.
+**Radar Signal Processing · Physics-Informed AI · Research Software**
 
-</details>
-Scientific Machine Learning · Subsurface Imaging · Research Software
+I'm a Ph.D. researcher developing physics-informed and uncertainty-aware methods for ground-penetrating radar (GPR). I turn radar measurements into subsurface reconstructions and dielectric-property estimates, and build software that makes those results usable.
 
-I develop physics-informed and uncertainty-aware methods for ground-penetrating radar (GPR), connecting inverse problems, 3D reconstruction, and scientific software.
+**Open to radar perception, algorithm research, and research engineering roles.** Available to start now; Ph.D. completion expected **June 2027**.
 
-I am a PhD candidate at **Beijing Forestry University** and a lecturer in computer science at **Yanching Institute of Technology**.
+[Email me](mailto:zhao.xuan@ieee.org) · [Selected work](#selected-work) · [Publications](#selected-publications) · [Technical writing (中文)](https://blog.zhaoxuan.site/)
 
-[Email](mailto:zhao.xuan@ieee.org) · [Selected research](#selected-research) · [Writing in Chinese](https://blog.zhaoxuan.site/)
+## Selected work
 
-<!-- Add a reviewed public CV, Google Scholar, and LinkedIn only after their exact links have been checked. -->
+### Physics-informed GPR imaging platform
 
-## Selected research
+**Project architect · April 2024 – April 2025**
 
-### Physics-informed, uncertainty-aware root reconstruction
+Built a Python application connecting radar data import, automated preprocessing, physics-informed inversion, and interactive visualization. The platform reconstructs underground structures and estimates dielectric properties, with cross-platform interfaces for managing datasets, running models, and inspecting results.
 
-My research combines electromagnetic propagation principles with probabilistic deep learning to reconstruct underground root structures and assess prediction uncertainty from GPR measurements.
+[Explore TRS — Tree Root Software](https://tris.realxuan.site)
 
-IEEE Transactions on Geoscience and Remote Sensing（2026）
+### [DLTools — Python tools for ML workflows](https://github.com/real-Xuan/DLTools)
 
-[Uncertainty-Aware Tree Root Morphology and Phenotypic Parameter Reconstructed From Ground-Penetrating Radar Signal via Physics-Informed Variational Networks](https://doi.org/10.1109/TGRS.2026.3670339)
+A public toolkit for data preprocessing and postprocessing across radar, computer vision, and signal-processing workflows. Its GPR utilities read and align `.DZT` radar files and export arrays to `.mat` or `.npy`. The repository includes installation instructions, usage examples, and tests.
 
-<!-- Optional: add ONE real, publication-cleared result image here after the image file exists in this repository. Include a descriptive caption and alt text. Do not use generated scientific results. -->
+### Multisource sensing and validation
 
-## Research software experience
+Conducted joint analysis and cross-validation across GPR data, LiDAR point clouds, vision-reconstructed point clouds, soil temperature/moisture and dielectric measurements, and spectrometer-based chlorophyll measurements. My responsibilities cover algorithm design, software implementation, and system architecture.
 
-I designed and developed a cross-platform electromagnetic imaging platform integrating radar signal processing, deep learning inference, data management, and interactive visualization with **Python**.
+## Selected publications
 
-This work connects algorithm development with usable interfaces and backend services for scientific workflows.
+| Research | Venue · Year | Authorship |
+| --- | --- | --- |
+| [Uncertainty-aware root reconstruction with physics-informed variational networks](https://doi.org/10.1109/TGRS.2026.3670339) | IEEE TGRS · 2026 | **First author** |
+| [Face recognition in low-resolution surveillance video streams](https://doi.org/10.1117/12.2518991) | SPIE · 2019 | **First author** |
+| [GPR inversion with a prior physical velocity field](https://doi.org/10.1109/TGRS.2025.3553688) | IEEE TGRS · 2025 | Second author |
+| [GPR-CUNet: spatio-temporal feature fusion for forward and inverse modeling](https://doi.org/10.1109/JSEN.2024.3522888) | IEEE Sensors Journal · 2025 | Second author |
+| [Physics-guided permittivity reconstruction in root–soil environments](https://doi.org/10.1016/j.eswa.2026.134713) | Expert Systems with Applications · 2026 | Co-author |
+| [GPR deep-learning inversion for soil moisture assessment](https://doi.org/10.1016/j.measurement.2026.120594) | Measurement · 2026 | Co-author |
 
-## Opportunities and collaboration
+## Tools
 
-I am interested in international **postdoctoral and research engineering opportunities** in scientific machine learning, inverse problems, subsurface sensing, and research software.
+Python · PyTorch · Keras · NumPy · SciPy · Linux
 
-Contact: **[zhao.xuan@ieee.org](mailto:zhao.xuan@ieee.org)**
+## Education and teaching
+
+- **Ph.D. in progress, Mechanical Engineering (Intelligent Detection Technology)** — Beijing Forestry University, 2023–present.
+- **M.S., Electrical and Computer Engineering** — Binghamton University, State University of New York, 2017–2019.
+- **Lecturer, Computer Science and Technology** — Yanching Institute of Technology, 2021–present, including during my doctoral studies. Teach AI and its Applications, and Linux and network server deployment. Recipient of an Outstanding Teacher Award.
